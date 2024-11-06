@@ -20,13 +20,26 @@ I’m diving into the world of web development with a strong focus on building r
 
 ---
 
+### 🏆 GitHub Trophy
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ShivBuildsWebs&theme=darkhub)
+
+---
+
 ### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivBuildsWebs&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShivBuildsWebs&theme=radical)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivbuildswebs&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivBuildsWebs&layout=compact&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivbuildswebs&layout=compact&theme=radical)
+---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivbuildswebs&theme=react-dark)
+### 💬 Inspiring Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 👀 Profile Visitors
+![](https://komarev.com/ghpvc/?username=ShivBuildsWebs&color=brightgreen)
 
 ---
 
@@ -37,4 +50,4 @@ I’m diving into the world of web development with a strong focus on building r
 
 ### 🎮 Fun Facts
 - I was a three-time chess champion in school and city competitions.
-- I contributed an idea for an Indian food truck, which became successful.
+- I’ve also ventured into entrepreneurial ideas, like a successful Indian food truck business.
