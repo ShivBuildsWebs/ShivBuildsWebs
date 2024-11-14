@@ -27,7 +27,6 @@ I’m diving into the world of web development with a strong focus on building r
 
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivBuildsWebs&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShivBuildsWebs&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivBuildsWebs&layout=compact&theme=radical)
 
